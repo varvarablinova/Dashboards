@@ -1,1 +1,2 @@
 # Дашборд для сети автосервисов
+Ссылка на интерактивную версию дашборда: https://app.powerbi.com/view?r=eyJrIjoiNzUzNmU0MzYtMmQ2YS00ZjQxLThkOGYtMGMyNmJiMGQ1MjQ1IiwidCI6IjVhYTg4YWY2LTMyMDAtNDhiYS05YjY3LTc1NGM4MmVmMmQwNiIsImMiOjl9&pageName=ReportSection11250f6689a7e11cd222
